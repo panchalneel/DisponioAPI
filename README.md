@@ -81,12 +81,16 @@ Steps to start server
 ```
 
 
-
 ## Create Rental
 
 **URL** : http://localhost:8080/rentals
 
 **Method** : POST
+
+
+**Headers**
+
+**token** : User jwt token
 
 **Request Body**
 ```
@@ -106,5 +110,75 @@ Steps to start server
 {
     "status": 200,
     "message": "Rental created successfully"
+}
+```
+
+## Update Rental
+
+**URL** : http://localhost:8080/rentals/3a1fa96a771a4066aae7ceffb
+
+**Method** : PATCH
+
+**Headers**
+
+**token** : User jwt token
+
+**Request Body**
+```
+{
+	"street": "Rose Street",
+	"houseNumber": 219,
+	"city": "Coral",
+	"zipCode": 10384,
+	"numberRooms": 10,
+	"area": 10
+}
+```
+
+**Response**
+```
+{
+    "status": 200,
+    "message": "Rental created successfully"
+}
+```
+
+## Delete Rental
+
+**URL** : http://localhost:8080/rentals/3a1fa96a771a4066aae7ceffb
+
+**Method** : DELETE
+
+**Headers**
+
+**token** : User jwt token
+
+**Response**
+```
+{
+    "status": 200,
+    "message": "Record deleted successfully"
+}
+```
+
+## Upload image file
+
+**URL** : http://localhost:8080/upload
+
+**Method** : POST
+
+**Headers**
+
+**token** : User jwt token
+
+**Content-Type** : application/x-www-form-urlencoded
+
+**image** : .png file
+
+**Response**
+```
+{
+    "status": 200,
+    "message": "File updated successfully"
 }
 ```
