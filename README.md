@@ -173,6 +173,12 @@ Steps to start server
 
 **Content-Type** : application/x-www-form-urlencoded
 
+**Request Body**
+
+**Tyepe** : Form-data
+
+**Key**
+
 **image** : .png file
 
 **Response**
