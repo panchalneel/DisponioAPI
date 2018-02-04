@@ -13,14 +13,14 @@ Steps to start server
 
 ### Login
 
-URL : http://localhost:8080/login?email=cornelialott@emtrak.com&password=44d6aec6-5d67-47d3-a9ec-2754dba27d6b1
+**URL** : http://localhost:8080/login?email=cornelialott@emtrak.com&password=44d6aec6-5d67-47d3-a9ec-2754dba27d6b1
 
-Method : GET
+**Method** : GET
 
-Parameters
+### Parameters
 
-email : Email id of user (E.g : cornelialott@emtrak.com)
-password : 44d6aec6-5d67-47d3-a9ec-2754dba27d6b1
+**email** : Email id of user (E.g : cornelialott@emtrak.com) <br/>
+**password** : 44d6aec6-5d67-47d3-a9ec-2754dba27d6b1
 
 **Response**
 ```
