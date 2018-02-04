@@ -40,7 +40,7 @@ module.exports = class FileUploadController {
 	uploadFile(req, res) {
 		upload(req, res, function (error) {
 			if (error) {
-				logger.err(error);
+				logger.error(error);
 				res.status(400).send({
 					status: 400,
 					message: 'You have selected invalid file. Please upload only .png file'
