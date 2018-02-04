@@ -11,6 +11,14 @@ Steps to start server
 
 ## Features
 
+1) CRUD operation for rental details
+2) Authenticate user using JWT Token
+3) Log saved in CSV file
+4) Serve static file
+5) Upload png files
+6) Test case (Test folder contains the test case)
+7) Code coverage (Coverage -> icov-report -> index.html contains the code coverage)
+
 ## Login
 
 **URL** : http://localhost:8080/login?email=cornelialott@emtrak.com&password=44d6aec6-5d67-47d3-a9ec-2754dba27d6b1
