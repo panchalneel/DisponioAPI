@@ -388,3 +388,9 @@
 {"level":"info","message":"User verified successfully","timestamp":"2018-02-04T04:50:24.733Z"}
 {"level":"warn","message":"Invalid Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU5Nzc3ZjNmZGFkZDFkMjZjYzJhMjA5MyIsImlhdCI6MTUxNzcxMDk5MSwiZXhwIjoxNTE3NzE4MTkxfQ.DqUnWoECkp6wqQ9ux-Xr09P0zZu-MbV0HSHAwOyqZb4","timestamp":"2018-02-04T04:50:43.533Z"}
 {"level":"info","message":"User verified successfully","timestamp":"2018-02-04T04:52:20.471Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T05:04:28.788Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T05:04:28.789Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T05:04:33.063Z"}
+{"level":"error","message":"User details not found : cornelialott@emtrak.com","timestamp":"2018-02-04T05:04:33.063Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T05:05:12.175Z"}
+{"level":"warn","message":"Invalid Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU5Nzc3ZjNmZGFkZDFkMjZjYzJhMjA5MyIsImlhdCI6MTUxNzcxMDk5MSwiZXhwIjoxNTE3NzE4MTkxfQ.DqUnWoECkp6wqQ9ux-Xr09P0zZu-MbV0HSHAwOyqZb4","timestamp":"2018-02-04T05:06:07.033Z"}
