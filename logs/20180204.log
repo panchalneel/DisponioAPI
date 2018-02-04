@@ -422,3 +422,186 @@
 {"level":"info","message":"Server listening on :: @ 8080","timestamp":"2018-02-04T16:14:32.161Z"}
 {"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:14:34.557Z"}
 {"level":"error","message":"Invalid File","timestamp":"2018-02-04T16:14:34.570Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T16:24:59.832Z"}
+{"level":"info","message":"User authenticated successfully : mirandasoto@emtrak.com","timestamp":"2018-02-04T16:24:59.835Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:25:10.695Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:35:09.975Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:35:28.370Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:38:34.498Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:41:38.487Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:44:03.164Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:44:27.833Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:44:43.029Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:45:31.352Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:46:10.192Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:46:27.444Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:47:59.135Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:48:28.313Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:49:02.775Z"}
+{"date":"Sun Feb 04 2018 17:49:16 GMT+0100 (W. Europe Standard Time)","process":{"pid":11276,"uid":null,"gid":null,"cwd":"C:\\Users\\NIL\\WebstormProjects\\NodeFramwork","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.9.4","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\NIL\\WebstormProjects\\NodeFramwork\\test"],"memoryUsage":{"rss":52158464,"heapTotal":37769216,"heapUsed":22441104,"external":171557}},"os":{"loadavg":[0,0,0],"uptime":388979.7927525},"trace":[{"column":1,"file":"C:\\Users\\NIL\\WebstormProjects\\NodeFramwork\\test\\index.js","function":null,"line":7,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":643,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":654,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":556,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":499,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":491,"method":"_load","native":false},{"column":10,"file":"module.js","function":"Module.runMain","line":684,"method":"runMain","native":false},{"column":16,"file":"bootstrap_node.js","function":"startup","line":187,"method":null,"native":false},{"column":3,"file":"bootstrap_node.js","function":null,"line":608,"method":null,"native":false}],"stack":["ReferenceError: describe is not defined","    at Object.<anonymous> (C:\\Users\\NIL\\WebstormProjects\\NodeFramwork\\test\\index.js:7:1)","    at Module._compile (module.js:643:30)","    at Object.Module._extensions..js (module.js:654:10)","    at Module.load (module.js:556:32)","    at tryModuleLoad (module.js:499:12)","    at Function.Module._load (module.js:491:3)","    at Function.Module.runMain (module.js:684:10)","    at startup (bootstrap_node.js:187:16)","    at bootstrap_node.js:608:3"],"level":"error","message":"uncaughtException: describe is not defined","timestamp":"2018-02-04T16:49:16.370Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:50:13.149Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:51:27.528Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T16:55:52.944Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T16:55:52.948Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:55:54.930Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T16:57:51.463Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T16:57:51.472Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:57:53.427Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T16:59:08.918Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T16:59:08.921Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:59:10.923Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T16:59:46.837Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T16:59:46.841Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T16:59:48.814Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T17:00:08.941Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T17:00:08.947Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T17:00:11.498Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T17:02:27.711Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T17:02:27.714Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T17:02:30.235Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T17:02:51.715Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T17:02:51.718Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T17:02:54.241Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T17:03:35.068Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T17:03:35.073Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T17:03:37.609Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T17:05:59.436Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T17:05:59.441Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T17:06:01.975Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T17:08:08.836Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T17:08:08.848Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T17:08:11.425Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T18:45:42.300Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T18:45:42.316Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:45:44.832Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:45:47.363Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T18:52:20.551Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T18:52:20.551Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:52:23.086Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:52:25.764Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T18:52:51.838Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T18:52:51.846Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:52:54.366Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:52:56.888Z"}
+{"level":"warn","message":"Invalid Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU5Nzc3ZjNmMjZlZTc1MmU2NzI2ZTE4ZiIsImlhdCI6MTUxNzc2MTQ5OSwiZXhwIjoxNTE3NzY4Njk5fQ.s-T6aSo1HX2dy68FBSrMBNjIJQJzq_l6XYWnPXSlsZY","timestamp":"2018-02-04T18:54:05.463Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T18:54:09.814Z"}
+{"level":"info","message":"User authenticated successfully : mirandasoto@emtrak.com","timestamp":"2018-02-04T18:54:09.815Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:54:23.179Z"}
+{"level":"warn","message":"Invalid Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU5Nzc3ZjNmMjZlZTc1MmU2NzI2ZTE4ZiIsImlhdCI6MTUxNzc2MDY0MiwiZXhwIjoxNTE3NzY3ODQyfQ.tJHs1isk0Xfk-vsrFQBwzQBJ5-MhQ5ygtVEQ6U7299I","timestamp":"2018-02-04T18:55:22.487Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:55:33.956Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:55:46.828Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T18:57:50.281Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T18:57:50.281Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:57:52.801Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:57:55.321Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:57:57.843Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T18:58:19.821Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T18:58:19.836Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:58:22.365Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:58:24.900Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T18:58:27.407Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T19:01:15.969Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T19:01:15.973Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:01:18.495Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:01:21.031Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:01:23.558Z"}
+{"date":"Sun Feb 04 2018 20:01:26 GMT+0100 (W. Europe Standard Time)","process":{"pid":15424,"uid":null,"gid":null,"cwd":"C:\\Users\\NIL\\WebstormProjects\\NodeFramwork","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.9.4","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\NIL\\AppData\\Roaming\\npm\\node_modules\\mocha\\bin\\_mocha","--ui","bdd","--reporter","C:\\Program Files\\JetBrains\\WebStorm 2017.3.2\\plugins\\NodeJS\\js\\mocha-intellij\\lib\\mochaIntellijReporter.js","C:\\Users\\NIL\\WebstormProjects\\NodeFramwork\\test"],"memoryUsage":{"rss":45740032,"heapTotal":25628672,"heapUsed":21462656,"external":35886}},"os":{"loadavg":[0,0,0],"uptime":396909.5041396},"trace":[{"column":11,"file":"C:\\Users\\NIL\\WebstormProjects\\NodeFramwork\\test\\index.js","function":"Timeout._onTimeout","line":136,"method":"_onTimeout","native":false},{"column":11,"file":"timers.js","function":"ontimeout","line":475,"method":null,"native":false},{"column":5,"file":"timers.js","function":"tryOnTimeout","line":310,"method":null,"native":false},{"column":5,"file":"timers.js","function":"Timer.listOnTimeout","line":270,"method":"listOnTimeout","native":false}],"stack":["ReferenceError: rentalDetails is not defined","    at Timeout._onTimeout (C:\\Users\\NIL\\WebstormProjects\\NodeFramwork\\test\\index.js:136:11)","    at ontimeout (timers.js:475:11)","    at tryOnTimeout (timers.js:310:5)","    at Timer.listOnTimeout (timers.js:270:5)"],"level":"error","message":"uncaughtException: rentalDetails is not defined","timestamp":"2018-02-04T19:01:26.077Z"}
+{"level":"warn","message":"Invalid Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU5Nzc3ZjNmMjZlZTc1MmU2NzI2ZTE4ZiIsImlhdCI6MTUxNzc2MDY0MiwiZXhwIjoxNTE3NzY3ODQyfQ.tJHs1isk0Xfk-vsrFQBwzQBJ5-MhQ5ygtVEQ6U7299I","timestamp":"2018-02-04T19:02:17.677Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T19:02:22.732Z"}
+{"level":"info","message":"User authenticated successfully : mirandasoto@emtrak.com","timestamp":"2018-02-04T19:02:22.732Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:02:34.037Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T19:02:56.548Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T19:02:56.548Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:02:59.078Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:03:01.624Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:03:04.150Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:03:06.655Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T19:16:57.511Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T19:16:57.511Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:17:00.033Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:17:02.590Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:17:05.096Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:17:07.613Z"}
+{"level":"info","message":"Server listening on :: @ 8080","timestamp":"2018-02-04T19:18:30.394Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T19:18:42.250Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T19:18:42.250Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:18:44.769Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:18:47.306Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:18:49.824Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T19:18:52.345Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:02:53.849Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:02:53.852Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:02:56.404Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:02:56.418Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:03:46.261Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:03:46.266Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:03:48.819Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:03:48.836Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:04:42.803Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:04:42.809Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:04:45.359Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:04:45.374Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:05:19.717Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:05:19.720Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:05:22.246Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:05:24.813Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:05:27.332Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:05:29.855Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:05:32.393Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:05:32.411Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:06:20.515Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:06:20.519Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:06:23.050Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:06:25.609Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:06:28.131Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:06:30.657Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:06:33.197Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:06:33.224Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:09:59.445Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:09:59.455Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:10:01.997Z"}
+{"level":"error","message":"User details not found : panchal2207nil@gmail.com","timestamp":"2018-02-04T20:10:01.998Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:10:29.352Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:10:29.358Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:10:31.889Z"}
+{"level":"error","message":"User details not found : panchal2207nil@gmail.com","timestamp":"2018-02-04T20:10:31.889Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:11:15.835Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:11:15.838Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:11:18.364Z"}
+{"level":"error","message":"User details not found : panchal2207nil@gmail.com","timestamp":"2018-02-04T20:11:18.365Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:11:20.895Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:11:23.447Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:11:25.962Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:11:28.485Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:11:31.019Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:11:31.034Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:12:12.538Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:12:12.541Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:12:15.062Z"}
+{"level":"error","message":"User details not found : panchal2207nil@gmail.com","timestamp":"2018-02-04T20:12:15.062Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:17.587Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:20.164Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:22.683Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:25.208Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:27.741Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:12:27.769Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:12:46.431Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:12:46.434Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:12:48.958Z"}
+{"level":"error","message":"User details not found : panchal2207nil@gmail.com","timestamp":"2018-02-04T20:12:48.959Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:51.478Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:54.041Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:56.551Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:12:59.069Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:13:00.929Z"}
+{"level":"info","message":"User authenticated successfully : cornelialott@emtrak.com","timestamp":"2018-02-04T20:13:00.933Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:13:01.655Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:13:01.676Z"}
+{"level":"info","message":"In Login","timestamp":"2018-02-04T20:13:03.463Z"}
+{"level":"error","message":"User details not found : panchal2207nil@gmail.com","timestamp":"2018-02-04T20:13:03.464Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:13:05.991Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:13:08.581Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:13:11.101Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:13:13.625Z"}
+{"level":"info","message":"User verified successfully","timestamp":"2018-02-04T20:13:16.164Z"}
+{"level":"info","message":"File uploaded successfully","timestamp":"2018-02-04T20:13:16.199Z"}

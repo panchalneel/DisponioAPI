@@ -1,6 +1,5 @@
 var express = require('express');
 var app = express();
-global.Utils = require('./libs/utils.js');
 global.ROOT_PATH = __dirname;
 var config = require('./config/environments');
 global.config = config;

@@ -35,7 +35,8 @@ module.exports = class AuthController {
 			});
 			logger.info('User authenticated successfully : ' + email);
 			res.send({
-				status: 'Success',
+				status: 200,
+				message: 'Success',
 				user: {id: user.id, firstName: user.firstName, lastName: user.surname},
 				token: token
 			});
