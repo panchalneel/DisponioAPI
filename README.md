@@ -97,7 +97,8 @@ Steps to start server
 	"zipCode": 110384,
 	"numberRooms": 110,
 	"area": 110
-}```
+}
+```
 
 
 **Response**
